@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi my name is Anusha!
 
 # 💫 About Me:
 Hi there! 👋 I'm Anusha, a Computer Science student at Georgia Tech with a strong interest in FinTech, AI, and consulting. My work focuses on blending technology and finance to build innovative solutions, particularly in areas like blockchain, payment platforms, and data-driven financial analysis.
